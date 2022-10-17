@@ -1,4 +1,4 @@
-###Foreword
+### Foreword
 
 Writing this document began as an expanded version of another quickstart document, authored by Jordi Torres and [available on GitHub](https://github.com/jorditorresBCN/Quick-Start/blob/main/Git-Github-Quick-Start.md ).  It has undergone several full rewrites and has grown to become a 23 page long manual in the form of a step by step tutorial.
 
