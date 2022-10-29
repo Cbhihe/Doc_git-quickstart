@@ -22,7 +22,6 @@ You may reproduce and distribute the present document freely (as in “free beer
 The above conditions complement the terms of the GNU Free Documentation License Version 1.3 or or any later version published by the Free Software Foundation. You can consult the full licensing terms either on the Free Software Foundation web site, or in the adjoined License.md file.
 
 The authors' common affiliation at time of document's creation was: <BR>
-
      Dept of Architecture of Computers (DAC)<BR>
      Barcelona College of Computer Science (FIB)<BR>
      Polytechnic University of Catalonia (UPC)<BR>
