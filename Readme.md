@@ -1,5 +1,7 @@
 ## Tutorial: With Git everything is "local".
 
+*Last update: July  2024*
+
 ### Foreword
 
 Writing this document began as an expanded version of another quickstart document, authored by Jordi Torres and [available on GitHub](https://github.com/jorditorresBCN/Quick-Start/blob/main/Git-Github-Quick-Start.md ).  It has undergone several full rewrites and has grown to become an almost 30 page long manual in the form of a step by step tutorial.
@@ -11,18 +13,18 @@ Corrections and suggestions are welcome and should be consigned in the Issues se
 
 ### Copyright
 
-    Copyright (c) 2017-2022 Cedric Bhihe
+    Copyright (c) 2018, 2020, 2022 Cedric Bhihe
 
 You may reproduce and distribute the present document freely (as in “free beer”), provided you comply with three conditions: 
 
-- this version's author's name, Cedric Bhihe, must be quoted in full, as well as his affiliation at time of creation (2018),
+- the author's name, Cedric Bhihe, must be quoted in full, as well as his affiliation at time of creation (i.e. 2018),
 - the original version's author's name, Jordi Torres, must be quoted in full, as well as his affiliation at time of this document's creation (2018),
-- the document must be distributed in full, as is along with the following mention:
+- the document must be distributed in full and as is, or not at all.
 
 The above conditions complement the terms of the GNU Free Documentation License Version 1.3 or or any later version published by the Free Software Foundation. You can consult the full licensing terms either on the Free Software Foundation web site, or in the adjoined License.md file.
 
 The authors' common affiliation at time of document's creation was: <BR>
      Dept of Architecture of Computers (DAC)<BR>
-     Barcelona College of Computer Science (FIB)<BR>
+     College of Computer Science (FIB)<BR>
      Polytechnic University of Catalonia (UPC)<BR>
      Barcelona 08034 - Spain
